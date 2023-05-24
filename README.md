@@ -23,14 +23,12 @@ Novo valor do produto: 55.00
 
 3. Escreva um programa que leia uma temperatura fornecida pelo usuário a partir do teclado em graus Fahrenheit. Esse programa deverá ter uma função que receba esse valor como parâmetro e converta essa temperatura para o seu equivalente em graus centígrados (celsius). Para finalizar, escreva na tela do console o valor convertido. OBS.: °C = (°F − 32) / 1,8
 
-4. Escreva um algoritmo que, dados três valores, calcule e imprima as médias aritmética, harmônica e geométrica destes valores. Para cada cálculo realizado, deverá possuir uma função equivalente ao cálculo realizado. Ex.: calcularMediaAritmetica(double valor) calcularMediaHarmonica(double valor) calcularMediaGeometrica(double valor)
+4. Escreva um algoritmo que, dados três valores, calcule e imprima as médias aritmética, harmônica e geométrica destes valores. Para cada cálculo realizado, deverá possuir uma função equivalente ao cálculo realizado. Ex.: calcularMediaAritmetica(double valor) calcularMediaHarmonica(double valor) calcularMediaGeometrica(double valor).<br>
 OBS.:<br>
 a.Média aritmética:<br> 
 (a + b + c) / 3 
-
 b.Média harmônica:<br> 
 3/(1/a + 1/b + 2/c)
- 
 c.Média geométrica:<br>
 3V(a x b x c)
 
