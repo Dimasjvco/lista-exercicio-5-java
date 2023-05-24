@@ -5,7 +5,7 @@ Centro Universitário UNA <br>
 Programação de Soluções Computacionais <br>
 Professor Daniel Henrique Matos de Paiva <br>
 
-Lista de Exercícios V: Funções <br>
+Lista de Exercícios V em java: Funções <br>
 
 Considerações Iniciais:<br>
 Esta lista de exercício deve:
