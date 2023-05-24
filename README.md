@@ -26,11 +26,11 @@ Novo valor do produto: 55.00
 4. Escreva um algoritmo que, dados três valores, calcule e imprima as médias aritmética, harmônica e geométrica destes valores. Para cada cálculo realizado, deverá possuir uma função equivalente ao cálculo realizado. Ex.: calcularMediaAritmetica(double valor) calcularMediaHarmonica(double valor) calcularMediaGeometrica(double valor).<br>
 OBS.:<br>
 a.Média aritmética:<br> 
-(a + b + c) / 3 
+(a + b + c) / 3 <br>
 b.Média harmônica:<br> 
-3/(1/a + 1/b + 2/c)
+3/(1/a + 1/b + 2/c) <br>
 c.Média geométrica:<br>
-3V(a x b x c)
+3V(a x b x c) <br>
 
 5. Faça um programa para imprimir:
 • 1
