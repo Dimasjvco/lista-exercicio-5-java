@@ -4,8 +4,10 @@ By: Felipe Claver Diniz [VS Code]
 Centro Universitário UNA <br>
 Programação de Soluções Computacionais <br>
 Professor Daniel Henrique Matos de Paiva <br>
+
 Lista de Exercícios V: Funções <br>
-Considerações Iniciais:
+
+Considerações Iniciais:<br>
 Esta lista de exercício deve:
 - Ser realizada em equipes de até 07 alunos.
 - Ser entregue no prazo proposto.
