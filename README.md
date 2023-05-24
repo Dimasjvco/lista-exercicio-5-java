@@ -28,10 +28,10 @@ OBS.:<br>
 a.Média aritmética:<br> 
 (a + b + c) / 3 
 
-b.	Média harmônica:<br> 
+b.Média harmônica:<br> 
 3/(1/a + 1/b + 2/c)
  
-c.	Média geométrica:<br>
+c.Média geométrica:<br>
 3V(a x b x c)
 
 5. Faça um programa para imprimir:
