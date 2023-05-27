@@ -32,12 +32,12 @@ b.Média harmônica:<br>
 c.Média geométrica:<br>
 3V(a x b x c) <br>
 
-5. Faça um programa para imprimir:
-• 1
-• 2 2
-• 3 3 3
-• .....
-• n n n n n n ... n
+5. Faça um programa para imprimir:<br>
+• 1<br>
+• 2 2<br>
+• 3 3 3<br>
+• .....<br>
+• n n n n n n ... n<br>
 para um n informado pelo usuário. Use uma função que receba um valor n inteiro e imprima até a n-ésima linha.
 
 6. Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos.
