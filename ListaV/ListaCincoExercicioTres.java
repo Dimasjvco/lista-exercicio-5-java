@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+public class ListaCincoExercicioTres. {
   public static void main(String[] args) {
 
       Scanner g =new Scanner(System.in);
