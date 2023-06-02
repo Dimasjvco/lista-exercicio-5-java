@@ -1,5 +1,4 @@
 # lista-exercicio-5-java
-By: Felipe Claver Diniz [VS Code]
 
 Centro Universitário UNA <br>
 Programação de Soluções Computacionais <br>
