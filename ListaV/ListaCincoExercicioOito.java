@@ -1,4 +1,4 @@
-public class ExercicioOito {
+public class ListaCincoExercicioOito {
     public static void main(String[] args) {
         double taxaImposto = 15.0;  // Taxa de imposto de 15%
         double custoItem = 100.0;  // Custo do item antes do imposto
