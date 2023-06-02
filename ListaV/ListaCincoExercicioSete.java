@@ -1,4 +1,4 @@
-public class Questao7 {
+public class ListaCincoExercicioSete {
     public static void main(String[] args) {
         
         int numeroEscolhido = 48;
