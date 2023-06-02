@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ListaCincoExercQuatro {
+public class CincoExercicioQuatro {
 
 public static void main(String[] args) {
 
